@@ -1,3 +1,2 @@
 # Print lines from Zen of Python
-
-print("What a sunny day!")
+print("There should be one-- and preferably only one --obvious way to do it.")
